@@ -1,16 +1,24 @@
-# pokedex
+# Pokedex App
 
-A new Flutter project.
+> Searchable Pokedex app built with flutter
+- I used this [APİ](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
+#
+![Pokeball](https://media.giphy.com/media/uWLJEGCSWdmvK/giphy.gif)
 
-## Getting Started
+# Preview
+https://user-images.githubusercontent.com/103886639/180440589-a8731a22-da16-4141-95ad-59f774d99748.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Home Page
+![HomePage2v1](https://user-images.githubusercontent.com/103886639/180438131-56f9e4d2-178f-4d02-b416-f0a9e59eefbe.png)
+![HomePagev1](https://user-images.githubusercontent.com/103886639/180438140-c18bb8c9-9548-4f50-bc96-ef8eb6b21ed6.png)
+
+
+# Detail Page
+![DetailPage2v1](https://user-images.githubusercontent.com/103886639/180438176-ccda265d-8852-42ef-acd2-5482b9ddaebe.png)
+![DetailPage3v1](https://user-images.githubusercontent.com/103886639/180438180-5bfe0969-c83d-4308-b640-7f358c6b539a.png)
+
+
